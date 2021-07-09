@@ -1,0 +1,4 @@
+1. makes changes to files
+2. Add changes to be committed with (git add filename or . for all)
+3. Commit changes with message using (git commit - m "message")
+4. Push to repo using (git push)
